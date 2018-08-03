@@ -3,6 +3,6 @@
  
 # Yapılacaklar
 
- Aynı kurbağaların birbiri üzerinden atlamasını engeleyen kısım yazılacak
- Kod basit hale getirilecek
- Responsive design geliştirilecek
+ * Aynı kurbağaların birbiri üzerinden atlamasını engeleyen kısım yazılacak
+ * Kod basit hale getirilecek
+ * Responsive design geliştirilecek
