@@ -1,0 +1,43 @@
+body {
+  background-color: #19B088; }
+  body .container {
+    margin-top: 20px;
+    text-align: center; }
+    body .container .content {
+      margin-top: 50px; }
+      body .container .content .stone {
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+        margin-right: 30px; }
+        @media (max-width: 1020px) {
+          body .container .content .stone {
+            margin-right: 10px; } }
+        body .container .content .stone button {
+          width: 100px;
+          height: 100px;
+          padding: 0px;
+          border: 0; }
+          @media (max-width: 1020px) {
+            body .container .content .stone button {
+              padding: 5px;
+              width: 90px;
+              height: 90px; } }
+          @media (max-width: 768px) {
+            body .container .content .stone button {
+              width: 50px;
+              height: 50px; } }
+          body .container .content .stone button img {
+            text-align: center;
+            width: 100px;
+            height: 100px; }
+            @media (max-width: 1020px) {
+              body .container .content .stone button img {
+                width: 80px;
+                height: 80px; } }
+            @media (max-width: 768px) {
+              body .container .content .stone button img {
+                width: 50px;
+                height: 50px; } }
+
+/*# sourceMappingURL=style.css.map */
